@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+.anagovde
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:50px;
+	color: white;
+	height:900px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;	
+}
+.menu
+{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+	color: white;
+	height: 250px;
+	width: 1000px;
+	background-color:#3FF;
+  
+}
+.acıklama
+{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:50px;
+	color:#000;
+}
+.icerik
+{
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:50px;
+	color:red;
+	height: 250px;
+	width: 1000px;
+	float:left;
+    
+}
+.yazıı
+{
+	font-size:30px;
+	color:#333;
+}
+.yazı
+{
+	font-size:20px;
+	color:black;
+}
+.yazı2
+{
+	font-size:20px;
+	color:black;
+}
+.yazı3
+{
+	font-size:30px;
+	color:#666;
+}
+
+
